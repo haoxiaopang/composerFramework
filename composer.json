@@ -1,0 +1,17 @@
+{
+    "name": "root/composer-framework",
+    "description": "a framework build by composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "haoxiaopang",
+            "email": "yanshia@163.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.0",
+        "symfony/class-loader": "^3.1",
+        "symfony/debug": "^3.1"
+    }
+}
